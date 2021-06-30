@@ -12,7 +12,7 @@ Ini adalah proyek terbuka yang bertujuan untuk memetakan regulasi yang ada di In
 
 ## Perangkat
 
-Peralatan yang digunakan dalam proyek ini adalah aplikasi [https://protege.stanford.edu/](Protege) yang dibuat oleh Standford University.
+Peralatan yang digunakan dalam proyek ini adalah aplikasi [Protege](https://protege.stanford.edu/) yang dibuat oleh Standford University.
 
 ## Tim
 
