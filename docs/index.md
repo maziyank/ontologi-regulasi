@@ -12,6 +12,22 @@ Ini adalah proyek terbuka yang bertujuan untuk memetakan regulasi yang ada di In
 
 Peralatan yang digunakan dalam proyek ini adalah aplikasi [Protege](https://protege.stanford.edu/) yang dibuat oleh Standford University.
 
+## Daftar Ontologi
+
+Daftar ontologi yang sudah dibuat
+
+<table>
+  <th>
+    <td> Version </td>
+    <td> File </td>  
+  </th>
+  <tr>
+    <td> Ontology Ketentuan Umum Perpajakan </td>
+    <td> 1.0 </td>
+    <td> Coming Soon </td>  
+  </tr>  
+</table>
+
 ## Tim
 
 - Bakhtiar Amaludin
