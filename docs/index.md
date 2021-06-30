@@ -16,17 +16,10 @@ Peralatan yang digunakan dalam proyek ini adalah aplikasi [Protege](https://prot
 
 Daftar ontologi yang sudah dibuat
 
-<table>
-  <th>
-    <td> Version </td>
-    <td> File </td>  
-  </th>
-  <tr>
-    <td> Ontology Ketentuan Umum Perpajakan </td>
-    <td> 1.0 </td>
-    <td> Coming Soon </td>  
-  </tr>  
-</table>
+| Deskripsi                          | Versi | Link        |
+|------------------------------------|-------|-------------|
+| Ontology Ketentuan Umum Perpajakan | 1.0.0 | Coming Soon |
+| Ontology Pajak Pertambahan Nilai   | 1.0.0 | Coming Soon |
 
 ## Tim
 
