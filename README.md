@@ -2,7 +2,7 @@
 
 Ini adalah proyek terbuka yang bertujuan untuk memetakan regulasi yang ada di Indonesia melalui pembuatan OWL Ontology. Nantinya akan dibuat beberapa ontologi terkait dengan topik tertentu di bidang hukum. Adapun untuk awalan, kami akan mencoba menyusun ontologi berkenaan dengan hukum perpajakan.
 
-![image info](./assets/example.gif)
+![image info](./docs/example.gif)
 
 ## Latar Belakang
 
