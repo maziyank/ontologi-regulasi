@@ -1,12 +1,14 @@
 ## Ontologi Regulasi
 
-Ini adalah proyek terbuka yang bertujuan untuk memetakan regulasi yang ada di Indonesia melalui pembuatan OWL Ontology. Nantinya akan dibuat beberapa ontologi terkait dengan tema tertentu di bidang hukum. Adapun untuk awalan, kami akan mencoba menyusun ontologi tematik berkenaan dengan hukum perpajakan.
+Ini adalah proyek terbuka yang bertujuan untuk memetakan regulasi yang ada di Indonesia melalui pembuatan OWL Ontology. Nantinya akan dibuat beberapa ontologi terkait dengan topik tertentu di bidang hukum. Adapun untuk awalan, kami akan mencoba menyusun ontologi berkenaan dengan hukum perpajakan.
+
+![image info](./../assets/example.gif)
 
 ## Latar Belakang
 
 - Regulasi Indonesia yang sangat banyak dan tersebar.
 - Potensi adanya overlap pengaturan antar peraturan.
-- Perlu melihat kerangka regulasi di Indonesia secara utuh.
+- Belum ada cara mudah untuk melihat kerangka regulasi di Indonesia secara utuh.
 
 ## Perangkat
 
@@ -26,3 +28,5 @@ Daftar ontologi yang sudah dibuat:
 - Bakhtiar Amaludin
 - Fitria Ratna Wardika
 - Gede Yudi Paramartha
+- Achmadaniar Anindya Rosadi
+- Putu Jasprayana M.P.
