@@ -8,7 +8,7 @@ Ini adalah proyek terbuka yang bertujuan untuk memetakan regulasi yang ada di In
 
 - Regulasi Indonesia yang sangat banyak dan tersebar.
 - Potensi adanya overlap pengaturan antar peraturan.
-- Perlu melihat kerangka regulasi di Indonesia secara utuh.
+- Belum ada cara mudah untuk melihat kerangka regulasi di Indonesia secara utuh.
 
 ## Perangkat
 
